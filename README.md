@@ -105,6 +105,6 @@ DevOps Engineer | CI/CD Specialist | AWS Certified
 
 ---
 
-## 📄 License
+## 📝 License
 
-This project is licensed under the [MIT License](LICENSE) © 2025 Parth Prajapati
+MIT License – free to use, modify, and contribute!
