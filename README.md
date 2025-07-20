@@ -3,7 +3,7 @@
 A smart, offline tool that converts your `.gitlab-ci.yml` into a clean, deployable `GitHub Actions` workflow.  
 Built for DevOps engineers migrating CI/CD pipelines — no OpenAI key required!
 
-![Tool Screenshot](./screenshot.png) <!-- optional: add your own -->
+![Tool Screenshot](screenshot.png) 
 
 ---
 
