@@ -100,7 +100,7 @@ While migrating CI/CD pipelines from GitLab to GitHub at scale, I built internal
 
 **Parth Prajapati**  
 DevOps Engineer | CI/CD Specialist | AWS Certified  
-🔗 [LinkedIn](https://www.linkedin.com/in/parth-prajapati-devops/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/parthprajapati39/)  
 💼 [Portfolio](https://github.com/PnpGitHub)
 
 ---
