@@ -16,7 +16,7 @@ A smart Python-based tool that converts `.gitlab-ci.yml` files into valid `.gith
 
 ## 🖼️ UI Preview
 
-*Insert screenshot at `screenshots/screenshot.png`*
+![CI YAML Converter UI](screenshots/screenshot.png)
 
 ---
 
